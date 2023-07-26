@@ -1,6 +1,6 @@
 # GCC_model
 The GCC model is a land use land cover classification model trained on automatically supervised labels to monitor post-disaster recovery through ground cover change. 
-The model was created on a jupyter notebook in Google Colab (.ipynb). For convenience, you can access these files from our shared google drive where all the input data is also found: https://drive.google.com/drive/u/2/folders/1QNAOlBLWR-7ohyhBdzbA-DCeK4doqgSG
+The model was created on a jupyter notebook in Google Colab (.ipynb) with direct access from our shared google drive: https://drive.google.com/drive/u/2/folders/1QNAOlBLWR-7ohyhBdzbA-DCeK4doqgSG
 
 Practical applications of this model bridge multiple areas of study in monitoring and evaluating spatially-explicit phenomena. The datasets supply land management assistance to monitoring operations of the pre- and post-disturbance stages. This is useful for practitioners, stakeholders, and scholars interested in modeling, assessing, and evaluating land change initiatives in particular disaster-affected areas. 
 
