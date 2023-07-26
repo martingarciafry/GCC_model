@@ -14,7 +14,7 @@ The GCC model's feature importance's file computes the predictive performance of
 
 SHAP feature importance's
 
-This tool applies SHAP values (SHapley Additive exPlanations) to determine the importance of a single feature to the overall predicitive capacity of a model. The GCC model takes advanatage of the localized precision of SHAP values to determine which features expedite the highest predictive capacity of land use classes. As our research targets land use growth in the periphery of urban areas, we aim to evaluate land change interactions prompted by post-disaster resettlement sites. 
+This tool applies SHAP values (SHapley Additive exPlanations) to determine the importance of a single feature to the overall predicitive capacity of a model. The GCC model takes advanatage of the localized precision of SHAP values to determine which features expedite the highest predictive capacity of land use classes. 
 
 Access to data input's
 
