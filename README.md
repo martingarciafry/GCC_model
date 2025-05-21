@@ -15,7 +15,9 @@ The Ground Cover Change (GCC) model represents a regional land cover change init
 
 # Contributions
 1) Technical: Automated high-quality training data acquisition with no temporal or modal constraint in regional extent.
+   
 2) Technical: Spectro-vertical sample supervision increments data reliability.
+   
 3) Science: Fused values of forest structure circumvent label interpretation bias and increases the reliability of land change outcomes.
 
 # Framework
