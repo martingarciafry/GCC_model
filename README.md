@@ -3,8 +3,8 @@ The GCC model is a novel land cover label supervision model that combines state-
 
 Practical applications bridge multiple areas of study in monitoring and evaluating spatially-explicit phenomena. Some of these studies include monitoring pre- and post-disturbance stages, adaptation and mitigation investments, causal land change effects, disaster recovery and resilience, and human-climate coupled Earth system sciences. This is useful for practitioners, stakeholders, and scholars interested in evaluating regional or site-specific spatiotemporal land change to inform climate action policy development. 
 
-# Brief Description
-The Ground Cover Change (GCC) model represents a regional land cover change initiative targeting the rural periphery of urbanizing areas. These areas are becoming increasingly importat to evaluate land use and land cover interactions, often exacerbated by large-scale investments (e.g., disaster reconstruction, redevelopment, and recovery), and for sustaining the environmental stability of rural areas. Therefore, this model serves to pin-point where urban growth management and climate action strategies are needed to benefit both carbon sinks and rural development, as well as enabling progress-tracking and informed decision-making.
+# Mission
+The Ground Cover Change (GCC) model represents a regional land cover change initiative targeting the rural periphery of urbanizing areas. These areas are becoming increasingly importat to evaluate land use and land cover interactions, often exacerbated by large-scale investments (e.g., disaster reconstruction, redevelopment, and recovery). Therefore, this model aims to pin-point where urban growth management and climate action strategies should integrate to protect carbon sinks and enable rural development, as well as progress-tracking and informed decision-making.
 
 # Objectives
 1) To understand the environmental implications of resettlement in stressed environments.
@@ -12,6 +12,11 @@ The Ground Cover Change (GCC) model represents a regional land cover change init
 2) To produce regional classifiers and training sets to classify satellite images on demand.
 
 3) To reduce vulnerability through urban growth management strategies targeting semi-urban, resilient, and sustainable growth.
+
+# Contributions
+1) Technical: Automated high-quality training data acquisition with no temporal or modal constraint in regional extent.
+2) Technical: Spectro-vertical sample supervision increments data reliability.
+3) Science: Fused values of forest structure circumvent label interpretation bias and increases the reliability of land change outcomes.
 
 # Framework
 The GCC framework requires the availability of open-sourced, regionally-consistent multisource remote sensing data metrics to secure high-quality training samples. 
