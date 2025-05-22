@@ -27,6 +27,10 @@ The naming convention of maps takes root in the ISO 3166 country code, a three-l
 The spatial resolution is ~30 m at the equator.
 Classifications are categorized through predicted class values relative to seven basic land cover strata. These classes are derived from a pre-existing land cover product using a variation of FAO's Land & Water Land Cover Classification System (https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1036361/).
 
+# Data Input/Output
+Input datasets and mapping products can be found through our Mendeley data link below:
+https://data.mendeley.com/datasets/mzp3k6fmtz/5
+
 # Visualization
 To visualize GCC products use the Earth Engine (users only) link below:
 https://code.earthengine.google.com/2fa2145554d29f3f6a2d143e72c1fbb3 
