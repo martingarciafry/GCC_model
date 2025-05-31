@@ -1,7 +1,8 @@
 This is the second component of the Ground Cover Change model, where you will find all the associated codes and tools.
 
 Input
-This step relies on metrics estimated to filter training data samples in the eco-zone of interest. The samples are collected using a standardized procedure and compiled in the “input_dataset.csv” file found here: https://data.mendeley.com/datasets/mzp3k6fmtz/5.
+An “input_dataset.csv” test file can be found here: https://data.mendeley.com/datasets/mzp3k6fmtz/5 under
+Root>GCC Model>Codes>Filtering Tool>With Multitemporal Metrics>input_dataset.csv (56.5 mb).
 
 Output
 Filter.py is written with a PYthon language command editor. Download and save the .py file and the .csv file  in a newly created local folder. Then, run the program to classify data into levels of reliability with stratified agricultural seasons.
