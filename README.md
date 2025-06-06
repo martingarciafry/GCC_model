@@ -4,24 +4,24 @@ The GCC model is a novel land cover label supervision model that combines state-
 Practical applications bridge multiple areas of study in monitoring and evaluating spatially-explicit phenomena. Some of these studies include monitoring pre- and post-disturbance stages, adaptation and mitigation investments, causal land change effects, disaster recovery and resilience, and human-climate coupled Earth system sciences. This is useful for practitioners, stakeholders, and scholars interested in evaluating regional or site-specific spatiotemporal land change to inform climate action policy development. 
 
 # Mission
-The Ground Cover Change (GCC) model represents a regional land cover change initiative targeting the rural periphery of urbanizing areas. These areas are becoming increasingly importat to evaluate land use and land cover interactions, often exacerbated by large-scale investments (e.g., disaster reconstruction, redevelopment, and recovery). Therefore, this model aims to pin-point where urban growth management and climate action strategies are needed to protect carbon sinks and rural development, as well as progress-tracking and informed decision-making.
+The Ground Cover Change (GCC) model represents a regional land cover and land use change initiative targeting the rural periphery of urbanizing areas. These areas are becoming increasingly important to evaluate land change interactions and inform climate action policy experts and decision-makers. This model aims to pinpoint where urban growth management strategies are needed to protect carbon sinks and the environmental stability of rural areas, as well as for progress-tracking and informed decision-making.
 
 # Objectives
-1) To understand the environmental implications of resettlement in stressed environments.
+1) To understand the environmental implications of disaster recovery for sustainable redevelopment and resilience planning.
 
-2) To produce regional classifiers and training sets to classify satellite images on demand.
+2) To produce regional classifiers and training datasets for satellite image prediction on demand.
 
-3) To reduce vulnerability through urban growth management strategies targeting semi-urban, resilient, and sustainable growth.
+3) To reduce urban vulnerability through semi-urban, resilient, and sustainable urban development. 
 
 # Contributions
 1) Technical: Automated high-quality training data acquisition with no temporal or modal constraint in regional extent.
    
 2) Technical: Spectro-vertical sample supervision increments data reliability.
    
-3) Science: Fused values of forest structure circumvent label interpretation bias and increases the reliability of land change outcomes.
+3) Science: Fused values of forest structure circumvent label interpretation bias and increase the reliability of land change metrics.
 
 # Framework
-The GCC framework requires the availability of open-sourced, regionally-consistent multisource remote sensing data metrics to secure high-quality training samples. 
+The GCC framework requires the availability of open-sourced, regionally-consistent multisource remote sensing data to secure high-quality training samples. 
 Mapping outcomes represent regional sectors subdivided by satellite image composites of +/-5 degrees. 
 The naming convention of maps takes root in the ISO 3166 country code, a three-letter code (alpha-3) to designate country names followed by map unit coordinates to reference world geodetic locations. 
 The spatial resolution is ~30 m at the equator.
